@@ -1,5 +1,4 @@
 
-Text here + [Link Workflow syntax for GitHub Actions] (https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 
 ---  # document start
 
@@ -9,6 +8,9 @@ Text here + [Link Workflow syntax for GitHub Actions] (https://docs.github.com/e
 ################
 # SCALAR TYPES #
 ################
+
+Text here + [Link Workflow syntax for GitHub Actions] (https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+
 
 # Our root object (which continues for the entire document) will be a map,
 # which is equivalent to a dictionary, hash or object in other languages.
