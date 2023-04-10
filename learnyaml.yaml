@@ -5,11 +5,13 @@
 # Comments in YAML look like this.
 # YAML supports single-line comments.
 
+Link Workflow syntax for GitHub Actions (https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+
 ################
 # SCALAR TYPES #
 ################
 
-Text here + [Link Workflow syntax for GitHub Actions] (https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+
 
 
 # Our root object (which continues for the entire document) will be a map,
